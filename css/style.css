@@ -30,7 +30,9 @@ th, td{
     color: #8380b6;
 }
 figcaption{
-    font-family: Montserrat, italic, cursive;
+    font-style: italic;
+    line-height: 0.5em;
+    margin-top: 0.5em;
 }
 figure{
     float: right;
